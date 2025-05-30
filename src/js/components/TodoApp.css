@@ -1,0 +1,18 @@
+.notebook{
+    background-color: rgba(234, 205, 19, 0.921);
+    border-radius: 15px;
+    background-image: url('');
+    background-size: cover;
+    padding-bottom: 1%;
+    box-shadow: 0px 10px 10px 1px;
+}
+
+.card-header{
+    background-color: aliceblue;
+    transition: ease-out 0.4s;
+
+}
+.card-header:hover{
+    transition: ease-in 0.5s;
+    transform: scale(1.015);
+}
